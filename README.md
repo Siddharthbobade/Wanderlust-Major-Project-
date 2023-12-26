@@ -44,7 +44,7 @@ User : Enable users to create, edit, delete listings and create, delete reviews 
   # Website Link : SOON
 
 # Ex- Images
-Home Page 
+# Home Page 
 ![Home page](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/5ff4ebbc-7eaf-4363-aceb-934a1013f716)
 ________________________________________________________________________________________________________________________________________________________________________
 # Footer page
@@ -76,7 +76,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________________
 # Error page 
-![Error_page](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/706ec58f-1e8a-4e68-a187-97151670359d)
+![Edit_page](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/22b39701-712c-4944-bc94-10078d15fb27)
 
 ________________________________________________________________________________________________________________________________________________________________________
 # Mapbox Map page
