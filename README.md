@@ -1,7 +1,7 @@
 
 # MAJOR PROJECT (WanderLust.com)
 
-Description
+# Description
 This project is an attempt to create a simplified version of the Airbnb website using Node.js, Express, MongoDB, EJS, and CSS.
 
 # Features
