@@ -47,43 +47,43 @@ User : Enable users to create, edit, delete listings and create, delete reviews 
 Home Page 
 ![Home page](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/5ff4ebbc-7eaf-4363-aceb-934a1013f716)
 ________________________________________________________________________________________________________________________________________________________________________
-Footer page
+# Footer page
 ![Footer](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/530a814e-96bf-4a43-9b06-46f35f791949)
 
 ________________________________________________________________________________________________________________________________________________________________________
-SignUp page
+# SignUp page
 ![SignUp](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/ab954e5f-53de-4d8b-8126-83a11d226045)
 
 ________________________________________________________________________________________________________________________________________________________________________
-Login page
+# Login page
 ![Login ](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/71c5173e-e35e-42f7-9991-214959c3c0ee)
 
 ________________________________________________________________________________________________________________________________________________________________________
-Alert messages
+# Alert messages
 ![Flash_MSG](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/36ae6476-eac2-4180-a610-42a9550522cf)
 
 ________________________________________________________________________________________________________________________________________________________________________
-Create New Hotel
+# Create New Hotel
 ![New](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/e26586c6-00c1-4207-a4a8-d485a89825df)
 
 ________________________________________________________________________________________________________________________________________________________________________
-Show Page
+# Show Page
 
 
 ________________________________________________________________________________________________________________________________________________________________________
-Edit page
+# Edit page
 ![Edit_page](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/f7df4cb2-9e25-4c3f-8d35-180059d3e178
 
 ________________________________________________________________________________________________________________________________________________________________________
-Error page 
+# Error page 
 ![Error_page](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/706ec58f-1e8a-4e68-a187-97151670359d)
 
 ________________________________________________________________________________________________________________________________________________________________________
-Mapbox Map page
+# Mapbox Map page
 ![MapBox](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/02349668-229a-4c47-b0fb-3886f17396fd)
 
 ________________________________________________________________________________________________________________________________________________________________________
-Review page (Create new Review)
+# Review page (Create new Review)
 ![review](https://github.com/Siddharthbobade/Wanderlust-Major-Project-/assets/142419287/09f8b50b-ed5b-45ea-b5aa-0ad070168e3c)
 
 ________________________________________________________________________________________________________________________________________________________________________
