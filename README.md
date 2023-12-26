@@ -18,26 +18,25 @@ User : Enable users to create, edit, delete listings and create, delete reviews 
 - 6th : Run server - Type command in terminal -> node app.js
 
 # Technologies used :
-
-HTML
-CSS
-JAVASCRIPT
-NODE.JS
-EXPRESS
-MONGODB
-EJS
-BOOTSTRAP
-MVC (MODEL, VIEW, CONTROLLER) AND ETC..
+1) HTML
+2) CSS
+3) JAVASCRIPT
+4) NODE.JS
+5) EXPRESS
+6) MONGODB
+7) EJS
+8) BOOTSTRAP
+9) MVC (MODEL, VIEW, CONTROLLER) AND ETC..
 # Package used :
-mongoose-atlas
-password
-flash
-session
-multer
-mapbox
-cookies
-doenv
-cloudinary and etc..
+1) mongoose-atlas
+2) password 
+3) flash
+4) session
+5) multer
+6) mapbo
+7) cookies
+8) doenv 
+9) cloudinary and etc..
 
 # Author :
   Siddharth bobade Email: Siddharthbobade270@gmail.com 
@@ -45,17 +44,6 @@ cloudinary and etc..
   # Website Link : SOON
 
 # Ex- Images
-
-
-
-
-
-
-
-
-
-
-# Thanks for visit... 😊😊😊
 Home Page 
 
 
@@ -88,4 +76,4 @@ Mapbox Map page
 
 Review page (Create new Review)
 
-
+# Thanks for visit... 😊😊😊
