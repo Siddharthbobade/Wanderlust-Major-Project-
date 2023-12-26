@@ -29,7 +29,7 @@ User : Enable users to create, edit, delete listings and create, delete reviews 
 9) MVC (MODEL, VIEW, CONTROLLER) AND ETC..
 # Package used :
 1) mongoose-atlas
-2) password 
+2) Passport
 3) flash
 4) session
 5) multer
@@ -38,7 +38,7 @@ User : Enable users to create, edit, delete listings and create, delete reviews 
 8) doenv 
 9) cloudinary and etc..
 
-# Author :
+# Author : Siddharth Bobade
   Siddharth bobade Email: Siddharthbobade270@gmail.com 
 
   # Website Link : SOON
@@ -68,6 +68,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________________________________
 # Show Page
+![show](https://github.com/Siddharthbobade/CSS-Mini_Project/assets/142419287/360dd601-d50f-4a4f-93ee-22fdeb91efec)
 
 
 ________________________________________________________________________________________________________________________________________________________________________
