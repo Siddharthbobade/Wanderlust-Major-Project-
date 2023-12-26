@@ -1,0 +1,222 @@
+
+<style>
+    
+    footer{
+        background-color:#2b2d2e;
+        font-family:'Helvetica',sans-serif;
+       
+        padding-bottom:40px;
+      }
+      h2,h3,h4{
+        font-weight:bolder;
+      }
+      a{
+        text-decoration:none;
+      }
+      footer *{
+        color:white;
+      }
+      select {
+        display: block;
+        border:none;
+        margin-bottom: 16px;
+        font-weight:bold;
+        padding: 12px 20px;
+        min-width: 17em;
+        background: #666;
+        border-radius: 5px;
+      }
+      option{
+        padding:5px 0;
+        border-radius:5px;
+      }
+      .wrapper {
+        max-width: 1024px;
+        margin: 0 auto;
+      }
+      .seperator{
+        display:flex;
+        padding-top:40px;
+        padding-bottom:40px;
+        border-bottom:1px solid #aaa;
+      }
+      .seperator:last-of-type{
+        border:none;
+      }
+      .seperator.column{
+        flex-direction:column;
+      }
+      .seperator.padded{
+        padding-right:100px;
+        padding-left:100px;
+      }
+      .col-2{
+        flex-grow:1.5;
+      }
+      .col-1{
+        flex-grow:1;
+        font-size:0.9em;
+      }
+      .col-1 h3{
+        font-size:1.3em;
+        margin-bottom:1em;
+      }
+      .col-1 a{
+        display:inline-block;
+        margin-bottom:5px;
+        font-size:0.9em;
+        letter-spacing:0.03em;
+      }
+      
+      .text-center{
+        text-align:center;
+      }
+      .margin-below-1{
+        margin-bottom:1em;
+      }
+      footer a:hover{
+        color:#ccc;
+      }
+      .smedialinks.a i{
+        display:inline-block;
+        width:16px;
+        height:16px;
+        font-size:1rem;
+        background:#333;
+        padding:8px;
+        border:1px solid white;
+        border-radius:50%;
+        margin-left:20px;
+      }
+      .copyright{
+        text-align:center;
+        color:grey;
+        font-size:0.9em;
+        letter-spacing:0.01;
+      }
+       i:hover{
+        opacity:0.8;
+        cursor:pointer;
+      }
+      @media (max-width:750px){
+        .seperator{
+          flex-direction:column;
+        }
+        .col-1,.col-1 h3{
+          display:none;
+        }
+        .col-1.first{
+          display:block; 
+        }
+        footer{
+          text-align:center;
+        }
+        select{
+          margin-left:auto;
+          margin-right:auto;
+        }
+      }
+      .a {
+        padding: 5px;
+      }
+
+      .f-info-brand {
+        padding-top: 5px;
+        padding-bottom: 5px;
+      }
+
+</style>
+
+
+<footer>
+    <div class="f-info-brand"> <b>&copy;</b> &nbsp; 2024 WanderLust PVT LTD
+    <a href="https://www.linkedin.com/in/siddharth-bobade-9009a0273/"><b>  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; Owner - </b></a>
+    <a href="https://www.linkedin.com/in/siddharth-bobade-9009a0273/">  &nbsp;  &nbsp;<i>@thesiddharthbobade</i></a>
+    </div>
+<div class='wrapper'>
+    <div class='seperator padded'>
+      <div class='col-2'>
+        <select>
+          <option>English</option>
+          <option >Hindi</option>
+          <option >Marathi</option>
+          <option>French</option>
+        </select>
+        <select>
+          <option>INR</option>
+        </select>
+      </div>
+      <div class='col-1 first'>
+        <h3>Company</h3>
+        <ul class="list-layout">
+          <li><a href="#" class="link-contrast">About</a></li>
+          <li><a href="#" class="link-contrast">Careers</a></li>
+          <li><a href="#" class="link-contrast">Press</a></li>
+          <li><a href="#" class="link-contrast">Blog</a></li>
+          <li><a href="#" class="link-contrast">Help</a></li>
+          <li><a href="#" class="link-contrast">Policies</a></li>
+          <li><a href="#" class="link-contrast">Disaster Response</a></li>
+          <li><a href="#" class="link-contrast">Terms &amp; Privacy</a></li>
+        </ul>
+      </div>
+      <div class='col-1'>
+        <h3>Discover</h3>
+        <ul class="list-layout">
+          <li><a href="#" class="link-contrast">Trust &amp; Safety</a></li>
+          <li><a href="#" class="link-contrast">Travel Credit</a></li>
+          <li><a href="#" class="link-contrast">Gift Cards</a></li>
+          <li><a href="#" class="link-contrast">wanderlust Picks</a></li>
+          <li><a href="#" class="link-contrast">Mobile</a></li>
+          <li><a href="#" class="link-contrast" target="_blank">WanderLust Action</a></li>
+          <li><a href="#" class="link-contrast">Business Travel</a></li>
+          <li><a href="#" class="link-contrast">Site Map</a></li>
+        </ul>
+      </div>
+      <div class='col-1'>
+        <h3>Hosting</h3>
+        <ul class="list-layout">
+          <li><a href="#" class="link-contrast">Why Host</a></li>
+          <li><a href="#" class="link-contrast">Hospitality</a></li>
+          <li><a href="#" class="link-contrast">Responsible Hosting</a></li>
+          <li><a href="#" class="link-contrast">Home Safety</a></li>
+          <li><a href="#" class="link-contrast">Instant Book</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class='seperator column text-center'>
+      <h4 class='margin-below-1'><i>Made by</i></h4>
+      <p>@thesiddharthbobade</p>
+      <div class='smedialinks'>
+        <a href="https://www.facebook.com/siddharth.bobade.9" class="a" ><i class="fa-brands fa-square-facebook " aria-hidden="true"></i></a>
+        <a href="https://www.instagram.com/thesiddharthbobade"  class="a"><i class="fa-brands fa-square-instagram " aria-hidden="true"></i></a>
+        <a href="#"><i class="fa-brands fa-square-twitter"  class="a"></i></a>
+        <a href="https://github.com/Siddharthbobade"  class="a"><i class="fa-brands fa-github " aria-hidden="true"></i></a>
+        <a href="https://www.linkedin.com/in/siddharth-bobade-9009a0273/"  class="a"><i class="fa-brands fa-linkedin " aria-hidden="true"></i></a>
+      </div>
+    </div>
+</div>
+</footer>
+
+
+<!--
+<footer>
+
+    <div class="f-info">
+        <div class="f-info-socials">
+            <a href="https://www.facebook.com/siddharth.bobade.9"><i class="fa-brands fa-square-facebook "></i></a>
+            <a href="https://www.instagram.com/thesiddharthbobade"><i class="fa-brands fa-square-instagram "></i></a>
+            <a href="#"><i class="fa-brands fa-square-twitter"></i></a>
+            <a href="https://github.com/Siddharthbobade"><i class="fa-brands fa-github "></i></a>
+            <a href="https://www.linkedin.com/in/siddharth-bobade-9009a0273/"><i class="fa-brands fa-linkedin "></i></a>
+        </div>
+        <div class="f-info-brand"> <b>&copy;</b> 2023 WanderLust PVT LTD</div>
+        <div class="f-info-links">
+            <a href="/privacy">Privacy </a>
+            <a href="/terms">Terms</a>
+            <a href="#">Owner</a>
+        </div>
+
+    </div>
+
+</footer>
+-->
