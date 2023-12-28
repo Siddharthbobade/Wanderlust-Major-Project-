@@ -38,6 +38,18 @@ This project is an attempt to create a simplified version of the Airbnb website 
 8) doenv 
 9) cloudinary and etc..
 
+# MAPBOX (Map Api's)
+• Used MapBox to show maps.
+
+# CLOUDINARY Storage
+• Used Cloudinary to store Images Files.
+
+# MONGOATLAS
+• Used MongoAtlas Database to store data.
+
+# RENDER
+• Used render.com to render/host website.
+
 # Author : Siddharth Bobade
   Siddharth bobade Email: Siddharthbobade270@gmail.com 
 
