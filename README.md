@@ -33,7 +33,7 @@ This project is an attempt to create a simplified version of the Airbnb website 
 3) flash
 4) session
 5) multer
-6) mapbo
+6) mapbox
 7) cookies
 8) doenv 
 9) cloudinary and etc..
